@@ -102,7 +102,7 @@ I’m passionate about **using AI responsibly in healthcare**, and I enjoy build
   <a href="https://www.linkedin.com/in/rangoliranjan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@YOUR-MEDIUM">
+  <a href="https://medium.com/@hersilentpen">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://github.com/ranjanrangoli">
