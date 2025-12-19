@@ -11,7 +11,7 @@ Throughout my career, I have worked extensively with **HL7 v2/v3 messaging, FHIR
 
 I have designed and implemented **end-to-end clinical and operational workflows, integrating EHRs, lab systems, PACS, and other healthcare applications** to optimize patient care and streamline hospital operations. My solutions prioritize data integrity, compliance with **HIPAA and global healthcare standards, and real-time clinical usability.**
 
-Currently, I am expanding my expertise into **AI-powered healthcare solutions**, leveraging **Python, cloud platforms, and modern AI frameworks** to develop **GenAI and machine learning applications** that solve real-world clinical and administrative challenges. I focus on **transforming complex healthcare data into actionable insights**, enhancing decision-making for clinicians, and enabling predictive, personalized, and data-driven care.
+Currently, I am expanding my expertise into **AI-powered healthcare solutions**, leveraging **Python, cloud platforms, and modern AI frameworks** to develop **GenAI and machine learning applications** that solve real-world clinical and administrative challenges.
 
 
 At healthcare organizations & as Personal Project, I’ve contributed to impactful systems such as:
