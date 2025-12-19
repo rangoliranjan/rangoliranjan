@@ -14,7 +14,7 @@ I have designed and implemented **end-to-end clinical and operational workflows,
 Currently, I am expanding my expertise into **AI-powered healthcare solutions**, leveraging **Python, cloud platforms, and modern AI frameworks** to develop **GenAI and machine learning applications** that solve real-world clinical and administrative challenges. I focus on **transforming complex healthcare data into actionable insights**, enhancing decision-making for clinicians, and enabling predictive, personalized, and data-driven care.
 
 
-At healthcare organizations, I’ve contributed to impactful systems such as:
+At healthcare organizations & as Personal Project, I’ve contributed to impactful systems such as:
 
 - 🏥 **Enterprise Healthcare Integration Platform**  
   Designed and maintained HL7 v2 and FHIR-based integrations connecting EMRs, labs, and downstream systems. Improved message reliability and reduced production incidents through robust validation and transformation logic using **Rhapsody + JavaScript**.
