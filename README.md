@@ -3,13 +3,16 @@
 </p>
 
 ---
-
 ## Hi, I'm Rangoli Ranjan 👋
 
-I'm a **Healthcare Interoperability Engineer with 6+ years of experience**, currently transitioning into **AI Engineering & Data Science in Healthcare**.  
-I specialize in building **reliable healthcare integrations**, **FHIR-based systems**, and **AI-powered workflows** that solve real clinical and operational problems.
+I'm a **Healthcare Interoperability Engineer with 6+ years of experience**, currently transitioning into **AI Engineering and Data Science in Healthcare**. I bring deep expertise in **building robust, standards-compliant healthcare integrations** that enable seamless and secure data exchange across complex clinical and operational systems.
 
-I have hands-on experience working with **HL7, FHIR, Rhapsody Integration Engine**, and I’m actively building **GenAI-powered healthcare solutions** using Python, cloud platforms, and modern AI frameworks.
+Throughout my career, I have worked extensively with **HL7 v2/v3 messaging, FHIR-based APIs, CCD/CCDA documents, and Rhapsody Integration Engine**, ensuring high-quality, reliable interoperability solutions. I am well-versed in healthcare terminologies and standards, including **SNOMED CT, LOINC, ICD-10** allowing me to develop semantically consistent and clinically meaningful systems. My experience also includes mapping and normalizing data between different coding systems to support analytics, reporting, and AI-driven applications.
+
+I have designed and implemented **end-to-end clinical and operational workflows, integrating EHRs, lab systems, PACS, and other healthcare applications** to optimize patient care and streamline hospital operations. My solutions prioritize data integrity, compliance with **HIPAA and global healthcare standards, and real-time clinical usability.**
+
+Currently, I am expanding my expertise into **AI-powered healthcare solutions**, leveraging **Python, cloud platforms, and modern AI frameworks** to develop **GenAI and machine learning applications** that solve real-world clinical and administrative challenges. I focus on **transforming complex healthcare data into actionable insights**, enhancing decision-making for clinicians, and enabling predictive, personalized, and data-driven care.
+
 
 At healthcare organizations, I’ve contributed to impactful systems such as:
 
