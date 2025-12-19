@@ -56,8 +56,8 @@ I’m passionate about **using AI responsibly in healthcare**, and I enjoy build
 ---
 ## 📜 Certifications
 
-- **AWS Certified AI Practitioner**
-- **AWS Cloud Practitioner**
+- <a href="">**AWS Certified AI Practitioner**</a>
+- <a href="">**AWS Cloud Practitioner**</a>
 - <a href="https://drive.google.com/file/d/1hlA_xzh4PiXJyTrQ5nf0L8tnsAOF2GGs/view?usp=drivesdk">**HL7 V2.8 Contol Specialist Certification**</a>
 - <a href="https://www.credly.com/badges/1dd63f26-d388-466a-82f3-7d311cd437e0/public_url">**Cloud Technical Series: ADK Builder's Badge**</a>
 
