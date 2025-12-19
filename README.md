@@ -102,10 +102,11 @@ I’m passionate about **using AI responsibly in healthcare**, and I enjoy build
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🧩 Frameworks & Tools
+## 🧩 Frameworks & Standards
 ![Rhapsody](https://img.shields.io/badge/Rhapsody-Healthcare-blue?style=for-the-badge)
 ![FHIR](https://img.shields.io/badge/FHIR-Standards-orange?style=for-the-badge)
 ![HL7](https://img.shields.io/badge/HL7-v2-green?style=for-the-badge)
+![DICOM](https://img.shields.io/badge/DICOM-FF6F61?style=for-the-badge&logo=medicalcross)
 
 ## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
