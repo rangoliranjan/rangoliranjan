@@ -1,6 +1,24 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Welcome+to+Rangoli's+GitHub+Profile" />
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1200&color=333333&center=true&vCenter=true&width=900&lines=Welcome+to+Rangoli's+GitHub" />
 </p>
+<h5 align="center">Healthcare Interoperability • AI Engineering • Data Science</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=900&lines=Building+FHIR-based+systems+and+AI-powered+healthcare+workflows" />
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=1F2937&center=true&vCenter=true&width=900&lines=Welcome+to+Rangoli's+GitHub" />
+</p>
+
+<h5 align="center">
+  Healthcare Interoperability • AI Engineering • Data Science
+</h5>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Building+FHIR-based+systems+and+AI-powered+healthcare+workflows" />
+</p>
+
+
 
 ---
 ## Hi, I'm Rangoli Ranjan 👋
