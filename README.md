@@ -80,6 +80,7 @@ I’m passionate about **using AI responsibly in healthcare**, and I enjoy build
 - <a href="https://www.credly.com/badges/1dd63f26-d388-466a-82f3-7d311cd437e0/public_url">**Cloud Technical Series: ADK Builder's Badge**</a>
 - <a href="https://www.kaggle.com/certification/badges/rrangoli/105">**5-Day AI Agents Intensive Course with Google**</a>
 
+<!--
 ---
 ## ✍️ Featured Articles
 
@@ -91,7 +92,7 @@ I’m passionate about **using AI responsibly in healthcare**, and I enjoy build
 
 - **Building AI Agents for Real-World Healthcare Problems**  
   Design thinking, safety, and practical constraints in healthcare AI
-
+ -->
 ---
 ## 🤝 Connect with Me
 
@@ -102,9 +103,9 @@ I’m passionate about **using AI responsibly in healthcare**, and I enjoy build
   <a href="https://www.linkedin.com/in/rangoliranjan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@hersilentpen">
+  <!-- <a href="https://medium.com/@hersilentpen">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/ranjanrangoli">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
